@@ -1,6 +1,6 @@
-### Hello, I am Daniel Fernandes! 👋
+## Hello, I am Daniel Fernandes! 👋
 
-# I am an Undergraduate pursuing a BSc (Hons) Computing (Data Analytics & Big Data)!!! 
+### I am an Undergraduate pursuing a BSc (Hons) Computing (Data Analytics & Big Data)!!! 
 <!--
 **fernandes-s/fernandes-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 -->
 
 
-![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernandesss-s%2F)
+
 
 
 - 🔭 I’m currently working on my portfolio and looking into data analytics roles
 - 🌱 I’m currently learning SQL, Python, C#, and Git.
 - 👯 I’m looking to collaborate on data projects!
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/fernandesss-s/
+- 📫 You can reach me on LinkedIn: ![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernandesss-s%2F)
 - ⚡ Fun fact: I am a Brazilian from Rio de Janeiro, but I live in Ireland where the avg weather in the winter is 4.0 °C to 7.6 °C and summer temperatures vary from 12.3 °C to 15.7 °C. 🥶
