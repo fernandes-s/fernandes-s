@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!--  -->
 
 
-- 🔭 I’m currently working on my portfolio and looking into data analytics roles
-- 🌱 I’m currently learning SQL, Python, C#, and Git.
+- 🔭 I’m currently working on my portfolio and looking for data analytics roles
+- 🌱 I’m currently learning SQL, Python, C#, Git, and Tableau.
 - 👯 I’m looking to collaborate on data projects!
 - 📫 You can reach me on LinkedIn: dfmnetoo@gmail.com
 - ⚡ Fun fact: I am a Brazilian from Rio de Janeiro, but I live in Ireland where the avg temperature in the winter is 5.2 °C, and summer is 14.3 °C. 🥶
