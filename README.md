@@ -5,11 +5,16 @@
 </div>
 
 
-### I am an Undergraduate pursuing a BSc (Hons) Computing (Data Analytics & Big Data)!!! 
 
 <div align="center">
-  <h3>That's what I tought I was going to be:</h3>
+  <h2>I am an Undergraduate pursuing a BSc (Hons) Computing (Data Analytics & Big Data)!!! </h2>
+  <br>
+  <h3>What I tought I was gonna be:</h3>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxuYW85emI5OWt2MHp2emdlNDVzbGpwaThkdXY0a2pyMzVsY2d4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"/>
+  <h3>What I really am:</h3>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpjcXp1bHp3NWh5YW05Zml4NXV6cWc0cWg0aGh1NHp0NGNvNjlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tc60LZc1NcdZifD3Wi/giphy.gif"/>
+  <h3>But i hope to one day be:</h3>
+  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFpanZyeGg4MGVjd244NzNmcjl6d2xucW90Z2pzYzg1bG42ZHU2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSDmc1yecieZBbMSFG/giphy.gif"/>
 </div>
 
 
