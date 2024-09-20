@@ -10,17 +10,14 @@
 
 
 <div align="center">
-  <h2>I am an Undergraduate pursuing a BSc (Hons) Computing (Data Analytics & Big Data)!!! </h2>
+  <h2>I am an Undergraduate pursuing a BSc (Hons) in Computing (Data Analytics & Big Data)!!! </h2>
   <br>
-  <h3>What I tought I was gonna be:</h3>
+  <h3>What I thought I was gonna be:</h3>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxuYW85emI5OWt2MHp2emdlNDVzbGpwaThkdXY0a2pyMzVsY2d4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="400" height="300"/>
-  <h3>What I really am:</h3>/>
   <h3>What I really am:</h3>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpjcXp1bHp3NWh5YW05Zml4NXV6cWc0cWg0aGh1NHp0NGNvNjlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tc60LZc1NcdZifD3Wi/giphy.gif" width="400" height="300"/>
-  <h3>What I really am:</h3>/>
   <h3>But i hope to one day be:</h3>
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFpanZyeGg4MGVjd244NzNmcjl6d2xucW90Z2pzYzg1bG42ZHU2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSDmc1yecieZBbMSFG/giphy.gif" width="400" height="300"/>
-  <h3>What I really am:</h3>/>
 </div>
 
 
@@ -62,12 +59,12 @@ Here are some ideas to get you started:
 <h3>Version Control</h3>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.php.net/docs.php"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-</div>
+
 
 
 <!-- <a href=""> <img src="" alt="pandas" width="40" height="40"/> </a>  -->
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" /></p>
-
+><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" />
+</div>
 <!-- 
 MOST USED LANGUAGES
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" /></p>
