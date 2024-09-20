@@ -1,4 +1,9 @@
-## Hello, I am Daniel Fernandes! 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF4dnRpYmlzdTludnlhYTJhNDNjODJkamNoaDk2YmN0Z2h3dGJmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/>
+  <br>
+  ## Hello, I am Danny 👋
+</div>
+
 
 ### I am an Undergraduate pursuing a BSc (Hons) Computing (Data Analytics & Big Data)!!! 
 <!--
