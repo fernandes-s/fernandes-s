@@ -39,19 +39,28 @@ Here are some ideas to get you started:
 
 <!-- ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)] -->
 <!--  -->
+<div align="center">
+<h2>Languages and Tools:</h2>
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
-
+<h3>Data</h3>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/pandas-docs/stable/reference/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line.svg" alt="pandas" width="40" height="40"/> </a>
-<!-- <a href=""> <img src="" alt="pandas" width="40" height="40"/> </a>  -->
-<a href="https://www.w3schools.com/cs/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/pandas-docs/stable/reference/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" alt="NumPy" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="ScikitLearn" width="40" height="40"/> </a>
+<h3>Software Development</h3>
+<a href="https://www.w3schools.com/cs/"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot-net" width="40" height="40"/> </a>
+
+<a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href=""> <img src="" alt="" width="40" height="40"/> </a>
+<a href=""> <img src="" alt="" width="40" height="40"/> </a>
+<a href=""> <img src="" alt="" width="40" height="40"/> </a>
+</div>
 
-</p>
 
+<!-- <a href=""> <img src="" alt="pandas" width="40" height="40"/> </a>  -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" /></p>
 
 <!-- 
 MOST USED LANGUAGES
