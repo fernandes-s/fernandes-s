@@ -55,14 +55,13 @@ Here are some ideas to get you started:
 <a href="https://learn.microsoft.com/en-us/dotnet/"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot-net" width="40" height="40"/> </a>
 <h3>Web Development</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/> </a>
-<a href=""> <img src="" alt="" width="40" height="40"/> </a>
+<a href="https://www.php.net/docs.php"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <h3>Version Control</h3>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.php.net/docs.php"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
-
-
+<!-- structure fir adding icons anchor tag and img tag -->
 <!-- <a href=""> <img src="" alt="pandas" width="40" height="40"/> </a>  -->
+
 ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" />
 </div>
 <!-- 
