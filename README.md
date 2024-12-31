@@ -68,15 +68,7 @@ Here are some ideas to get you started:
 MOST USED LANGUAGES
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" /></p>
 
-GIT STATS
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandes-s&show_icons=true&locale=en" alt="fernandes-s" /></p>
 
-CURRENT STREAK
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandes-s&" alt="fernandes-s" /></p>
-
--->
-
-<br><br><br><br><br>
 
 
 <!-- HOURLY-START -->
