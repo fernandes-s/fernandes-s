@@ -79,9 +79,45 @@ CURRENT STREAK
 
 
 <!-- HOURLY-START -->
+## Today's Weather
+
+<div align="center">
+
+`Dublin - 2024-12-31`
+
+<table style="border-collapse: collapse; width: auto; margin: auto;">
+<tr>
+<td align="center" style="border: none; padding: 10px;">
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
+
+Moderate rain
+
+</td>
+<td align="center" style="border: none; padding: 10px;">
+<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Crescent.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
+
+Waxing Crescent
+
+</td>
+</tr>
+</table>
+</div>
+
+<table>
+<tr><th>Hour</th>
+<td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td></tr><tr><th>Weather</th>
+<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
+<td>Cloudy </td><td>Partly Cloudy </td><td>Cloudy </td><td>Partly Cloudy </td><td>Cloudy </td><td>Cloudy </td><td>Partly Cloudy </td><td>Partly Cloudy </td><td>Patchy rain nearby</td><td>Light rain</td><td>Light rain</td><td>Light rain</td><td>Light rain</td><td>Light drizzle</td><td>Light drizzle</td><td>Light rain</td><td>Light drizzle</td><td>Patchy rain nearby</td><td>Patchy rain nearby</td><td>Patchy rain nearby</td><td>Light drizzle</td><td>Light rain</td><td>Light rain</td><td>Light drizzle</td></tr><tr><th>Temperature</th>
+<td>9.4 °C</td><td>9.7 °C</td><td>9.7 °C</td><td>9.5 °C</td><td>9.6 °C</td><td>10.0 °C</td><td>10.3 °C</td><td>10.3 °C</td><td>10.4 °C</td><td>10.5 °C</td><td>10.4 °C</td><td>10.7 °C</td><td>11.4 °C</td><td>11.4 °C</td><td>11.4 °C</td><td>10.8 °C</td><td>9.8 °C</td><td>9.8 °C</td><td>9.8 °C</td><td>9.6 °C</td><td>9.2 °C</td><td>8.5 °C</td><td>7.6 °C</td><td>7.4 °C</td></tr><tr><th>Wind</th>
+<td>27.4 kph</td><td>29.5 kph</td><td>30.6 kph</td><td>32.0 kph</td><td>32.8 kph</td><td>35.6 kph</td><td>37.8 kph</td><td>40.0 kph</td><td>39.6 kph</td><td>40.7 kph</td><td>38.9 kph</td><td>37.8 kph</td><td>40.3 kph</td><td>40.3 kph</td><td>33.8 kph</td><td>28.4 kph</td><td>31.0 kph</td><td>32.4 kph</td><td>33.5 kph</td><td>31.0 kph</td><td>28.8 kph</td><td>27.0 kph</td><td>28.4 kph</td><td>25.6 kph</td></tr></table>
+
+*Updated at: 2024-12-31 12:47 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
+
+
 <!-- HOURLY-END -->
 
 <!-- MULTI-DAY-START -->
+
 <!-- MULTI-DAY-END -->
 
 
