@@ -1,125 +1,99 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF4dnRpYmlzdTludnlhYTJhNDNjODJkamNoaDk2YmN0Z2h3dGJmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.gif" width="200"/>
-  <br>
-  <h1>Hi, I am Danny! 👋</h1> 
-<a href="https://www.linkedin.com/in/fernandesss-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandesss-s/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fernandes-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fernandes-s" height="30" width="40" /></a>
-<a href="https://instagram.com/dfneto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfneto_" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://i.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="200" />
+  <h1>Hi, I’m Danny! 👋</h1>
+  
+  <p>A graduate in Computing (Big Data & Data Analytics), passionate about data, automation, and meaningful insights.</p>
+
+  <a href="https://www.linkedin.com/in/fernandesss-s/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fernandes-s.github.io/">
+    <img src="https://img.shields.io/badge/-My%20Website-8A2BE2?style=flat&logo=internet-explorer&logoColor=white" alt="Personal Website Badge"/>
+  </a>
+  <a href="https://instagram.com/dfneto_">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </div>
 
 
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **BSc (Hons) in Computing**, specializing in Big Data & Data Analytics  
+- 💼 Internships:
+  - **Emydex Technology** – Software Development 
+  - **ServiceNow** – Associate Capacity Engineer 
+- 🧠 Focused on data pipelines, process automation, and making sense of complex datasets
+- 🔍 Currently learning more about cloud services, distributed systems, and large-scale analytics
+
+---
+
+### 📊 Data Tools & Frameworks
+
+- **Data Analysis & Visualization**:  
+  `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `statsmodels`, `Power BI (learning)`, `Excel (advanced formulas, pivot tables, dashboards)`
+
+- **Machine Learning & Modeling**:  
+  `Scikit-learn`, `statsmodels`, `regression`, `classification`, `EDA`, `feature engineering`, `model evaluation`
+
+- **Databases**:  
+  `SQL (complex queries, joins, procedures)`, `SQL Server`, `MySQL`, `MariaDB`
+
+- **Automation & Scripting**:  
+  `Python`, `Shell scripting`, `batch scripting`, `reporting automation`
+
+- **Tools & Environments**:  
+  `Git`, `GitHub`, `VS Code`, `Jupyter Notebook`, `Azure DevOps`, `Jira`, `Linux (basic ops and monitoring)`
+
+---
+
+### 🧪 Technologies Used During Internships
+
+- **At Emydex Technology**  
+  `C#`, `.NET`, `SQL Server`, `Azure DevOps`, `Git`, `Agile/Scrum`, `Debugging legacy systems`, `Internal APIs`, `Report automation`
+
+- **At ServiceNow**  
+  `Linux`, `Shell scripting`, `SQL`, `Performance monitoring`, `Cloud diagnostics`, `Data visualization`, `Internal tooling`, `SaaS infrastructure`, `Jira`
+
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <h2>I am an Undergraduate pursuing a BSc (Hons) in Computing (Data Analytics & Big Data)!!! </h2>
-  <br>
-  <h3>What I thought I was gonna be:</h3>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxuYW85emI5OWt2MHp2emdlNDVzbGpwaThkdXY0a2pyMzVsY2d4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="400" height="300"/>
-  <h3>What I really am:</h3>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpjcXp1bHp3NWh5YW05Zml4NXV6cWc0cWg0aGh1NHp0NGNvNjlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tc60LZc1NcdZifD3Wi/giphy.gif" width="400" height="300"/>
-  <h3>But i hope to one day be:</h3>
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFpanZyeGg4MGVjd244NzNmcjl6d2xucW90Z2pzYzg1bG42ZHU2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSDmc1yecieZBbMSFG/giphy.gif" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandes-s&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-s&layout=compact&theme=default" height="150"/>
 </div>
 
+---
 
-<!--
-**fernandes-s/fernandes-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 2026 Goals
 
-Here are some ideas to get you started:
+- 📊 Start a graduate role in data, consulting, or fintech  
+- 📦 Build and publish two end-to-end data engineering or science projects (Open to suggestions and collaborations)  
+- 📚 Prepare for a Master's in Data Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)  -->
+---
 
-<!-- ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)] -->
-<!--  -->
-<div align="center">
-<h2>Languages and Tools:</h2>
-
-<h3>Data Science & Analysis</h3>
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/pandas-docs/stable/reference/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" alt="NumPy" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/stable/"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="ScikitLearn" width="40" height="40"/> </a>
-<h3>Databases (Managment & Analysis)</h3>
-<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" alt="Maria-DB" width="40" height="40"/> </a>
-<h3>Software Development</h3>
-<a href="https://www.w3schools.com/cs/"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot-net" width="40" height="40"/> </a>
-<h3>Web Development</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.php.net/docs.php"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<h3>Version Control</h3>
-<a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-<!-- structure fir adding icons anchor tag and img tag -->
-<!-- <a href=""> <img src="" alt="pandas" width="40" height="40"/> </a>  -->
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" />
-<br>
-<br>
-
-<!-- HOURLY-START -->
-## Today's Weather
+### ✨ Just for Fun
 
 <div align="center">
-
-`Rio De Janeiro - 2025-05-09`
-
-<table style="border-collapse: collapse; width: auto; margin: auto;">
-<tr>
-<td align="center" style="border: none; padding: 10px;">
-<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/>
-
-Sunny
-
-</td>
-<td align="center" style="border: none; padding: 10px;">
-<img src="https://raw.githubusercontent.com/MaarceloLuiz/springboot-weather-forecast/main/assets/img/Waxing Gibbous.png" alt="Moon Phase Icon" style="width:50px; height:50px;"/>
-
-Waxing Gibbous
-
-</td>
-</tr>
-</table>
+  <!-- <h3>✨ Just for Fun</h3>  -->
+  <p><strong>What I wanted to be ➡ What I am ➡ What I expect to be</strong></p>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://media.giphy.com/media/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="220" height="220" title="Expectation: Easy stuff, right?" />
+    <img src="https://media.giphy.com/media/Tc60LZc1NcdZifD3Wi/giphy.gif" width="220" height="220" title="Reality: Actually... not so easy." />
+    <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="220" height="220" title="Future: But I'm doing alright now!" />
+  </div>
 </div>
 
-<table>
-<tr><th>Hour</th>
-<td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td></tr><tr><th>Weather</th>
-<td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td><td style="padding: 0;"><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Weather Condition Icon" style="width:50px; height:50px;"/></td></tr><tr><th>Condition</th>
-<td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Sunny</td><td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td><td>Clear </td></tr><tr><th>Temperature</th>
-<td>22.5 °C</td><td>22.3 °C</td><td>22.1 °C</td><td>21.8 °C</td><td>21.6 °C</td><td>21.5 °C</td><td>23.0 °C</td><td>24.0 °C</td><td>26.4 °C</td><td>28.6 °C</td><td>30.5 °C</td><td>31.5 °C</td><td>31.6 °C</td><td>31.5 °C</td><td>31.6 °C</td><td>30.9 °C</td><td>28.9 °C</td><td>26.9 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.4 °C</td></tr><tr><th>Wind</th>
-<td>7.2 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>13.0 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>9.0 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>9.7 kph</td></tr></table>
-
-*Updated at: 2025-05-09 09:17 by [MaarceloLuiz/springboot-weather-forecast](https://github.com/MaarceloLuiz/springboot-weather-forecast)*
 
 
-<!-- HOURLY-END -->
+---
 
-<!-- MULTI-DAY-START -->
+### 💻 Languages
 
-<!-- MULTI-DAY-END -->
-
-
-</div>
-
-<!-- 
-MOST USED LANGUAGES
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandes-s&show_icons=true&locale=en&layout=compact" alt="fernandes-s" /></p>
-
-
-
-
-
-
-
-
+```text
+Python | SQL | C# | HTML
+```
