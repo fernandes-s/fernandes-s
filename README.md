@@ -22,8 +22,8 @@
 
 - 🎓 **BSc (Hons) in Computing**, specializing in Big Data & Data Analytics  
 - 💼 Internships:
-  - **Emydex Technology** – Software Development 
-  - **ServiceNow** – Associate Capacity Engineer 
+- **ServiceNow** – Capacity Engineer 
+- **Emydex Technology** – Software Development 
 - 🧠 Focused on data pipelines, process automation, and making sense of complex datasets
 - 🔍 Currently learning more about cloud services, distributed systems, and large-scale analytics
 
@@ -41,7 +41,7 @@
   `SQL (complex queries, joins, procedures)`, `SQL Server`, `MySQL`, `MariaDB`
 
 - **Automation & Scripting**:  
-  `Python`, `Shell scripting`, `batch scripting`, `reporting automation`
+  `Python`, `Shell scripting`, `bash scripting`, `reporting automation`
 
 - **Tools & Environments**:  
   `Git`, `GitHub`, `VS Code`, `Jupyter Notebook`, `Azure DevOps`, `Jira`, `Linux (basic ops and monitoring)`
@@ -54,7 +54,7 @@
   `C#`, `.NET`, `SQL Server`, `Azure DevOps`, `Git`, `Agile/Scrum`, `Debugging legacy systems`, `Internal APIs`, `Report automation`
 
 - **At ServiceNow**  
-  `Linux`, `Shell scripting`, `SQL`, `Performance monitoring`, `Cloud diagnostics`, `Data visualization`, `Internal tooling`, `SaaS infrastructure`, `Jira`
+  `Linux`, `bash scripting`, `Shell scripting`, `SQL`, `Performance monitoring`, `Cloud diagnostics`, `Data visualization`, `Internal tooling`, `SaaS infrastructure`
 
 
 ---
@@ -70,9 +70,9 @@
 
 ### 🎯 2026 Goals
 
-- 📊 Start a graduate role in data, consulting, or fintech  
+- 📊 Start a graduate role in data, cloud, consulting, or fintech  
 - 📦 Build and publish two end-to-end data engineering or science projects (Open to suggestions and collaborations)  
-- 📚 Prepare for a Master's in Data Science  
+- 📚 Keep studying and learning more eveyday!
 
 ---
 
@@ -95,5 +95,5 @@
 ### 💻 Languages
 
 ```text
-Python | SQL | C# | HTML
+Python | SQL | bash | C# | HTML
 ```
